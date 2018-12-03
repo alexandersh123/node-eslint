@@ -11,3 +11,4 @@ RUN npm install -g eslint \
   eslint-plugin-vue \
   eslint-plugin-node \
   extract-text-webpack-plugin
+
